@@ -14,7 +14,13 @@ body{
     width: 200px;
 
 }
-.table{
+
+.link{
+    text-decoration: none;
+}
+
+.tabletesta{
+    table-layout:auto;
     background-color: rgb(32, 169, 229);
 }
 
@@ -25,3 +31,22 @@ body{
 .coloregiallo{
     background-color: yellow;
 }
+
+.scritta{
+    text-decoration-color: white;
+}
+
+.monitor{
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-image: url(/img/monitor.jpg);
+}
+
+.graph{
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-image: url(/img/graph.jpg);
+}
+
