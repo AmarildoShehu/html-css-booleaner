@@ -1,6 +1,6 @@
-*{
-    margin: 0;
-    margin-left: 20px;
+body{
+    width: 80%;
+    margin: 0 auto;
 }
 
 .rettangolo{
@@ -18,6 +18,10 @@
     background-color: rgb(32, 169, 229);
 }
 
-.tabella{
-    background-color: rgb(177, 229, 242)
+.rigablu{
+    background-color: rgb(177, 229, 242);
+}
+
+.coloregiallo{
+    background-color: yellow;
 }
