@@ -4,7 +4,7 @@ body{
 }
 
 .rettangolo{
-    width: 1100px;
+    margin: 0 auto;
     background-size: 30%;
     background-image: url(/img/pattern.png); 
     background-color: rgb(0, 183, 255);
@@ -19,11 +19,17 @@ body{
     text-decoration: none;
 }
 
+.container ul {
+    margin-left: -20px;
+}
 .tabletesta{
-    table-layout:auto;
+    color: white;
     background-color: rgb(32, 169, 229);
 }
-
+.lungtable{
+    width: 50%;
+    margin: 0px;
+}
 .rigablu{
     background-color: rgb(177, 229, 242);
 }
@@ -36,6 +42,15 @@ body{
     text-decoration-color: white;
 }
 
+.testofinale{
+    color: rgb(131, 127, 127);
+    font-size: large;
+    font-family: verdana, bold;
+}
+.scritta{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .monitor{
     width: 250px;
     height: 200px;
